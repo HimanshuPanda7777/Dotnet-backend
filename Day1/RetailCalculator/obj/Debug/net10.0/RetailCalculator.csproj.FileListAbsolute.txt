@@ -1,0 +1,14 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\bin\Debug\net10.0\RetailCalculator.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\bin\Debug\net10.0\RetailCalculator.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\bin\Debug\net10.0\RetailCalculator.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\bin\Debug\net10.0\RetailCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\bin\Debug\net10.0\RetailCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\RetailCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\RetailCalculator.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\RetailCalculator.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\RetailCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\RetailCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\refint\RetailCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\RetailCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\RetailCalculator.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\RetailCalculator\obj\Debug\net10.0\ref\RetailCalculator.dll

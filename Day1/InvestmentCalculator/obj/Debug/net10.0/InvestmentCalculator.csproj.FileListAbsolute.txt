@@ -1,0 +1,14 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\refint\InvestmentCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\InvestmentCalculator\obj\Debug\net10.0\ref\InvestmentCalculator.dll

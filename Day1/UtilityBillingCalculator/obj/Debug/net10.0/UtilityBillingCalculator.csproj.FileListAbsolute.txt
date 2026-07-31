@@ -1,0 +1,14 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\bin\Debug\net10.0\UtilityBillingCalculator.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\bin\Debug\net10.0\UtilityBillingCalculator.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\bin\Debug\net10.0\UtilityBillingCalculator.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\bin\Debug\net10.0\UtilityBillingCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\bin\Debug\net10.0\UtilityBillingCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\UtilityBillingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\UtilityBillingCalculator.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\UtilityBillingCalculator.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\UtilityBillingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\UtilityBillingCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\refint\UtilityBillingCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\UtilityBillingCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\UtilityBillingCalculator.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\UtilityBillingCalculator\obj\Debug\net10.0\ref\UtilityBillingCalculator.dll

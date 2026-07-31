@@ -1,0 +1,14 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\bin\Debug\net10.0\BmiCalculator.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\bin\Debug\net10.0\BmiCalculator.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\bin\Debug\net10.0\BmiCalculator.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\bin\Debug\net10.0\BmiCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\bin\Debug\net10.0\BmiCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\BmiCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\BmiCalculator.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\BmiCalculator.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\BmiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\BmiCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\refint\BmiCalculator.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\BmiCalculator.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\BmiCalculator.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\BmiCalculator\obj\Debug\net10.0\ref\BmiCalculator.dll

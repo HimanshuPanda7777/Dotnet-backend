@@ -1,0 +1,14 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\bin\Debug\net10.0\StudentPerformance.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\bin\Debug\net10.0\StudentPerformance.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\bin\Debug\net10.0\StudentPerformance.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\bin\Debug\net10.0\StudentPerformance.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\bin\Debug\net10.0\StudentPerformance.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\StudentPerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\StudentPerformance.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\StudentPerformance.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\StudentPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\StudentPerformance.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\refint\StudentPerformance.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\StudentPerformance.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\StudentPerformance.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day1\StudentPerformance\obj\Debug\net10.0\ref\StudentPerformance.dll
