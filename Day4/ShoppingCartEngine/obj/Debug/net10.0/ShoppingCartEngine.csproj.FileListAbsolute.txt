@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\bin\Debug\net10.0\ShoppingCartEngine.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\bin\Debug\net10.0\ShoppingCartEngine.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\bin\Debug\net10.0\ShoppingCartEngine.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\bin\Debug\net10.0\ShoppingCartEngine.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\bin\Debug\net10.0\ShoppingCartEngine.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\refint\ShoppingCartEngine.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ShoppingCartEngine.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\ShoppingCartEngine\obj\Debug\net10.0\ref\ShoppingCartEngine.dll

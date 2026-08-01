@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\bin\Debug\net10.0\GenericCacheManager.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\bin\Debug\net10.0\GenericCacheManager.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\bin\Debug\net10.0\GenericCacheManager.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\bin\Debug\net10.0\GenericCacheManager.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\bin\Debug\net10.0\GenericCacheManager.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\refint\GenericCacheManager.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\GenericCacheManager.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\GenericCacheManager\obj\Debug\net10.0\ref\GenericCacheManager.dll

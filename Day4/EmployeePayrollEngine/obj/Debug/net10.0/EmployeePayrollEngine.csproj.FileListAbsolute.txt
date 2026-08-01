@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\bin\Debug\net10.0\EmployeePayrollEngine.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\bin\Debug\net10.0\EmployeePayrollEngine.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\bin\Debug\net10.0\EmployeePayrollEngine.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\bin\Debug\net10.0\EmployeePayrollEngine.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\bin\Debug\net10.0\EmployeePayrollEngine.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\refint\EmployeePayrollEngine.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\EmployeePayrollEngine.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\EmployeePayrollEngine\obj\Debug\net10.0\ref\EmployeePayrollEngine.dll

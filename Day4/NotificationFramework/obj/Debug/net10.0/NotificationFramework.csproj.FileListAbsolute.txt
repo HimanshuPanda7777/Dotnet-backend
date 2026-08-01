@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\bin\Debug\net10.0\NotificationFramework.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\bin\Debug\net10.0\NotificationFramework.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\bin\Debug\net10.0\NotificationFramework.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\bin\Debug\net10.0\NotificationFramework.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\bin\Debug\net10.0\NotificationFramework.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\refint\NotificationFramework.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\NotificationFramework.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day4\NotificationFramework\obj\Debug\net10.0\ref\NotificationFramework.dll
