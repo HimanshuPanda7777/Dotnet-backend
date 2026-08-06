@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\bin\Debug\net10.0\Assignemt_BikeRental.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\bin\Debug\net10.0\Assignemt_BikeRental.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\bin\Debug\net10.0\Assignemt_BikeRental.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\bin\Debug\net10.0\Assignemt_BikeRental.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\bin\Debug\net10.0\Assignemt_BikeRental.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\refint\Assignemt_BikeRental.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\Assignemt_BikeRental.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day6\Assignemt_BikeRental\obj\Debug\net10.0\ref\Assignemt_BikeRental.dll

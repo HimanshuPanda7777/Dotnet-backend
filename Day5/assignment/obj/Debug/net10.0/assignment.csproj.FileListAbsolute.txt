@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\bin\Debug\net10.0\assignment.exe
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\bin\Debug\net10.0\assignment.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\bin\Debug\net10.0\assignment.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\bin\Debug\net10.0\assignment.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\bin\Debug\net10.0\assignment.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\refint\assignment.dll
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\assignment.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Dotnet Backend\Day5\assignment\obj\Debug\net10.0\ref\assignment.dll
